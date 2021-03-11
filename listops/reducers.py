@@ -1,0 +1,1 @@
+greatesteven=lambda x,y: x if x>y and (x%2==0 and y%2==0) else y if y%2==0 else x if x%2==0 else 0
